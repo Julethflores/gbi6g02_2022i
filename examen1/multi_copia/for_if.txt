@@ -1,0 +1,19 @@
+@@ -1,12 +1,6 
+@@El numero de columnas de multi_copia/n1.txt es 81
+El numero de columnas de multi_copia/n11.txt es 92
+El numero de columnas de multi_copia/n21.txt es 46
+El numero de columnas de multi_copia/n31.txt es 26
+El numero de columnas de multi_copia/n41.txt es 11
+El numero de columnas de multi_copia/n51.txt es 16
+El numero de columnas de multi_copia/n1.txt es 81
+El numero de columnas de multi_copia/n11.txt es 92
+El numero de columnas de multi_copia/n21.txt es 46
+El numero de columnas de multi_copia/n31.txt es 26
+El numero de columnas de multi_copia/n41.txt es 11
+El numero de columnas de multi_copia/n51.txt es 16
+PAR: multi_copia/n1.txt tiene 80 columnas
+PAR: multi_copia/n11.txt tiene 91 columnas
+PAR: multi_copia/n21.txt tiene 45 columnas
+PAR: multi_copia/n31.txt tiene 25 columnas
+PAR: multi_copia/n41.txt tiene 10 columnas
+PAR: multi_copia/n51.txt tiene 15 columnas
